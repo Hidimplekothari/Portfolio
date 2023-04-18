@@ -25,7 +25,7 @@ body {
 .horizontal-list {
     list-style: none;
     padding-left: 0px;
-    margin: -15px;
+    margin: 0px;
 }
 
 .horizontal-list li {
@@ -58,7 +58,7 @@ body {
 /* Name and Social Icons*/
 
 #name-social-container {
-    margin-top: 15vh;
+    margin-top: 20vh;
 }
 
 #my-name {
